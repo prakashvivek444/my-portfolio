@@ -86,6 +86,30 @@ h6 { font-size: 16px;}
 	min-height: 10em;
 
 }
+.neon{
+	color: #fff;
+	text-shadow:
+	  0 0 2px #fff,
+	  0 0 5px #fff,
+	  0 0 15px #fff,
+	  0 0 25px rgb(0, 132, 255),
+	  0 0 30px rgb(0, 153, 255),
+	  0 0 40px rgb(0, 183, 255),
+	  0 0 50px rgb(0, 238, 255),
+	  0 0 60px rgb(0, 217, 255);
+}
+.neonText {
+	color: #fff;
+	text-shadow:
+	  0 0 2px #fff,
+	  0 0 5px #fff,
+	  0 0 15px #fff,
+	  0 0 25px rgb(0, 132, 255),
+	  0 0 30px rgb(0, 153, 255),
+	  0 0 40px rgb(0, 183, 255),
+	  0 0 50px rgb(0, 238, 255),
+	  0 0 60px rgb(0, 217, 255);
+  }
 
 .intro-wrapper{
 	background-color: var(--secondaryColor);
